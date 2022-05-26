@@ -1,0 +1,28 @@
+.right{
+    background-color: gray;
+} 
+
+section >h2{
+    color: Blue;
+    text-transform: uppercase;
+} 
+
+.left{
+visibility: hidden;
+width: 5px;
+height: 5px;
+}
+
+header{
+    background-color: rgb(167, 163, 163)
+
+}
+h1{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+a{
+    color: black;
+}
